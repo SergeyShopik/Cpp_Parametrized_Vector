@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\ParametrVector\Debug\ParametrVector.exe
+C:\Users\HP\source\repos\ParametrVector\Debug\ParametrVector.pdb
